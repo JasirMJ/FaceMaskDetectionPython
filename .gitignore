@@ -1,0 +1,4 @@
+# Python virtual environments
+/env/
+/.idea/
+/__pycache__/
